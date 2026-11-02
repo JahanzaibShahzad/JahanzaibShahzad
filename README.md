@@ -39,12 +39,19 @@ I help service businesses get found on Google Search and Google Maps, and turn t
 
 ## What I Build Here
 
-Practical SEO tooling and playbooks from real client work:
+Practical SEO tooling and playbooks from real client work. Everything is open
+source and ready to use:
 
-- [seo-audit-toolkit](https://github.com/JahanzaibShahzad/seo-audit-toolkit) — Python scripts for on-page SEO audits (meta tags, headings, image alt text)
-- [gmb-audit-checklist](https://github.com/JahanzaibShahzad/gmb-audit-checklist) — Structured Google Business Profile audit framework with a scoring script
-- [keyword-research-framework](https://github.com/JahanzaibShahzad/keyword-research-framework) — My keyword research process, templates included
-- [local-seo-playbook](https://github.com/JahanzaibShahzad/local-seo-playbook) — Step-by-step Map Pack ranking playbook
+| Repo | What it does |
+| ---- | ------------ |
+| [geo-visibility-tracker](https://github.com/JahanzaibShahzad/geo-visibility-tracker) | Measure how often your brand shows up in AI search answers (ChatGPT, Perplexity, Gemini, Copilot) |
+| [seo-audit-toolkit](https://github.com/JahanzaibShahzad/seo-audit-toolkit) | Python scripts for on-page SEO audits (meta tags, headings, image alt text) |
+| [gmb-audit-checklist](https://github.com/JahanzaibShahzad/gmb-audit-checklist) | Structured Google Business Profile audit framework with a scoring script |
+| [keyword-research-framework](https://github.com/JahanzaibShahzad/keyword-research-framework) | My keyword research process, templates included |
+| [local-seo-playbook](https://github.com/JahanzaibShahzad/local-seo-playbook) | Step-by-step Map Pack ranking playbook |
+| [ai-video-batch-maker](https://github.com/JahanzaibShahzad/ai-video-batch-maker) | Batch-generate AI videos from a prompt file (free API) |
+
+New repos land here regularly. Star one if it helps your work.
 
 ---
 
